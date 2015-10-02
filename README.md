@@ -2,15 +2,15 @@
 
 
 We compare and search each element from a list into another one</br>
-Compararemos y buscaremos cada elemento de una lista dentro de otra
+Compararemos y buscaremos cada elemento de una lista dentro de la otra lista
 
 
-This lists contain emails</br>
+These lists contain emails</br>
 Estas listas contienen emails 
 
 
-One list is codificated to be organized by alphabetical order and the other one not</br>
-Una esta codificada para organizarse por orden alfabetico y la otra no
+One list will be encoded to be organized by alphabetical order into an letters and numeric array and the other one not</br>
+Una esta codificada para organizarse por orden alfabetico dentro de un array de letras y numeros y la otra no
 
-Also we search duplicate or triplicate  elements</br>
-Tambien se buscan elementos duplicados o triplicados
+Also we search duplicate and triplicate  elements and reorganize</br>
+Tambien se buscan elementos duplicados and triplicados y los reorganizamos
